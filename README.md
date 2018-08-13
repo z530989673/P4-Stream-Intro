@@ -3,10 +3,15 @@
 ### 为什么使用版本管理软件
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/whyIsVersionControlImportant.png)
 ### 什么是Streams
-branches with brains 
-
+* branches with brains  
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/stream.png)
 ### 为什么使用Streams
+* 更加清晰的分支关系  
+![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/formerBranch.png)
+![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/stream.png)
+* 创建分支、切换workspace、合并分支更加清晰便捷
+  详情请参考[创建分支](#创建分支)、[切换workspace](#切换workspace)、[合并分支](#合并分支)
+
 ## 基本操作
 ### 创建分支
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/createbranch.gif)
