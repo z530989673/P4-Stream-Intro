@@ -3,7 +3,8 @@
 ### 为什么使用版本管理软件
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/whyIsVersionControlImportant.png)
 ### 什么是Streams
-branches with brains
+branches with brains 
+
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/stream.png)
 ### 为什么使用Streams
 ## 基本操作
