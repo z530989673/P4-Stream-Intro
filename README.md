@@ -11,7 +11,7 @@
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/formerBranch.png)
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/stream.png)
 * 创建分支、切换分支、合并分支更加清晰便捷  
-  详情请参考[创建分支](#创建分支)、[切换workspace](#切换分支)、[合并分支](#合并分支)
+  详情请参考[创建分支](#创建分支)、[切换分支](#切换分支)、[合并分支](#合并分支)
 
 ## 基本操作
 ### 创建分支
