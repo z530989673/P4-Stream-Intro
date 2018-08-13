@@ -1,9 +1,11 @@
-# Perforce中stream的使用介绍
+# Perforce中streams的使用介绍
 ## 概述
 ### 为什么使用版本管理软件
-### 什么是Stream
+![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/whyIsVersionControlImportant.png)
+### 什么是Streams
+branches with brains
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/stream.png)
-### 为什么使用Stream
+### 为什么使用Streams
 ## 基本操作
 ### 创建分支
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/createbranch.gif)
