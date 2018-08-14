@@ -39,7 +39,7 @@
 ### 如何发布版本
 ### 如何修复发布版本中的缺陷
 
-##注意事项
+## 注意事项
 ### 切换分支还是切换workspace
 * 切换分支  
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/switchBranchOp.gif)  
