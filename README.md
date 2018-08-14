@@ -5,6 +5,8 @@
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/whyIsVersionControlImportant.png)
 ### 什么是Streams
 * branches with brains  
+* 发布分支，主干，开发分支 
+
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/stream.png)
 ### 为什么使用Streams
 * 更加清晰的分支关系  
@@ -47,10 +49,10 @@
 * QA：先在对应功能开发分支上测试，验证之后在copy至主干，再次验证后验收功能。
 ### 如何发布版本
 * 开发人员：无。
-* QA：在trunk上验收所有当前版本需要的功能后，创建release分支、设置权限、编译版本并发布。
+* QA：在trunk上验收所有当前版本需要的功能后，创建发布分支、设置权限、编译版本并发布。
 ### 如何修复发布版本中的缺陷
-* 开发人员：根据QA提供的版本在对应release分支提交修改，修复缺陷。
-* QA：给相关人员权限在对应release分支中提交修复changelist，确认修复后，merge回主干，有冲突请咨询相关人员。
+* 开发人员：根据QA提供的版本在对应发布分支提交修改，修复缺陷。
+* QA：给相关人员权限在对应发布分支中提交修改，确认修复后，合并回主干，有冲突请咨询相关人员。
 
 ## 注意事项
 ### 切换分支还是切换workspace
@@ -58,4 +60,13 @@
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/switchBranchOp.gif)  
 * 切换workspace  
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/switchWorkspaceOp.gif)
-### 分支权限（谁能合并？谁能创建？）
+### 职责
+* 为了保证主干的稳定性，只有特定人员方可在主干上提交修改。大部分情况下，修改是由QA验证后才能上传主干。
+* 开发人员
+  * 开发功能只在对应的功能分支。
+  * 修复缺陷只在对应的发布分支。
+* QA
+  * [验收功能](#如何验收功能)。
+  
+  * [发布版本](#如何发布版本)。
+
