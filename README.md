@@ -34,7 +34,9 @@
 
 ## 工作流程
 ### 分支架构
-![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/stream.png)
+![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/branchStructure.png) 
+
+![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/branchStructure2.png)
 ### 如何验收功能
 ### 如何发布版本
 ### 如何修复发布版本中的缺陷
