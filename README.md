@@ -37,13 +37,24 @@
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/branchStructure.png) 
 
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/branchStructure2.png)
+### 如何开发功能
+* 开发人员：在对应功能开发分支（蓝色）上提交修改。
+* QA：无。
 ### 如何验收功能
+* 开发人员：
+** 验收前，先将主干分支合并至对应开发分支（蓝色）。
+** 验收中：及时根据QA的反馈调整修改并上传至功能开发分支（蓝色）。
+* QA：先在对应功能开发分支（蓝色）上测试，验证之后在copy至主干分支（灰色），再次验证后验收功能。
 ### 如何发布版本
+* 开发人员：无。
+* QA：在trunk上验收所有当前版本需要的功能后，创建release分支、设置权限、编译版本并发布。
 ### 如何修复发布版本中的缺陷
+* 开发人员：根据QA提供的版本在对应release分支提交修改，修复缺陷。
+* QA：给相关人员权限在对应release分支（黄色）中提交修复changelist，确认修复后，merge回主干分支（灰色），有冲突请咨询相关人员。
 
 ## 注意事项
 ### 切换分支还是切换workspace
-* 切换分支  
+* 切换分支(workspace不变）  
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/switchBranchOp.gif)  
 * 切换workspace  
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/switchWorkspaceOp.gif)
