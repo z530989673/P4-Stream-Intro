@@ -71,9 +71,9 @@
   * [发布版本](#如何发布版本)。
   
   ## 注意事项
-  * 正确设置P4配置,尤其注意最后的几张图片和文字，[链接地址](http://note.youdao.com/noteshare?id=14a96014b0b1824efbf45f7ff245a31a&sub=1B158AE431044EF1AD2EAE14D6105670)
+  * 正确设置P4配置,尤其注意最后的几张图片和文字: [链接地址](http://note.youdao.com/noteshare?id=14a96014b0b1824efbf45f7ff245a31a&sub=1B158AE431044EF1AD2EAE14D6105670)
   * P4登录信息：
     * 用户名：wgame_dev
-    * 密码: wgame123
+    * 密码: wgame_dev
     * 请在workspace名前面添加自己名字前缀。请用全名，不要只使用首字母，方便别人搜索查询！
 
