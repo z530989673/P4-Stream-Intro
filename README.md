@@ -73,7 +73,7 @@
 ## 回去之后必须要做的事情：
 * 正确设置P4配置:
 ![text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/createConnection.png)
-  * 输入用户名：wgame_dev
+  * 输入用户名：wgame_dev(密码：wgame_dev)
   * 新建workspace
   * 输入带有自己名字前缀的workspace name
   * 修改workspace root
