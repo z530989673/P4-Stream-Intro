@@ -36,7 +36,6 @@
 
 ## 工作流程
 ### 分支架构
-![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/branchStructure.png) 
 
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/branchStructure2.png)
 ### 如何开发功能
