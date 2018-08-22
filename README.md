@@ -71,7 +71,15 @@
   * [发布版本](#如何发布版本)。
   
   ## 注意事项
-  * 正确设置P4配置,尤其注意最后的几张图片和文字: [链接地址](http://note.youdao.com/noteshare?id=14a96014b0b1824efbf45f7ff245a31a&sub=1B158AE431044EF1AD2EAE14D6105670)
+  * 正确设置P4配置:
+  [](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/createConnection.png)
+    * 输入用户名：wgame_dev
+    * 新建workspace
+    * 输入带有自己名字前缀的workspace name
+    * 修改workspace root
+    * 将stream选择为wgame_program
+    * advanced标签中修改文件结尾格式
+  [链接地址](http://note.youdao.com/noteshare?id=14a96014b0b1824efbf45f7ff245a31a&sub=1B158AE431044EF1AD2EAE14D6105670)
   * P4登录信息：
     * 用户名：wgame_dev
     * 密码: wgame_dev
