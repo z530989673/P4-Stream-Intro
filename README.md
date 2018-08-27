@@ -82,9 +82,12 @@
   * advanced标签中修改文件结尾格式  
   
 ![text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/endLine.png)
+  * 支持切换分支的删除操作 
+  
+![text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/endLine.png)
   * 设置正确的character encoding set  
   
-![text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/p4Preference.png)  
+![text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/character_encoding_set.png)  
 
 ![text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/localCharSet.png) 
 
