@@ -84,12 +84,14 @@
 ![text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/endLine.png)
   * 支持切换分支的删除操作 
   
-![text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/endLine.png)
+![text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/delete_action_when_switch_branch.png)
   * 设置正确的character encoding set  
   
 ![text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/character_encoding_set.png)  
 
 ![text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/localCharSet.png) 
+
+* 设置完成后，请重启perforce确认如上配置成功。
 
 [链接地址](http://note.youdao.com/noteshare?id=14a96014b0b1824efbf45f7ff245a31a&sub=1B158AE431044EF1AD2EAE14D6105670)
 * P4登录信息：
