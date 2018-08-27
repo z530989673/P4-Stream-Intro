@@ -90,8 +90,15 @@
 
 [链接地址](http://note.youdao.com/noteshare?id=14a96014b0b1824efbf45f7ff245a31a&sub=1B158AE431044EF1AD2EAE14D6105670)
 * P4登录信息：
-  * 用户名：wgame_dev
-  * 密码: wgame_dev
+  * 程序员
+    * 用户名：wgame_dev
+    * 密码: wgame_dev
+  * 美术
+    * 用户名：wgame_art
+    * 密码: wgame_art
+  * 策划
+    * 用户名：wgame_designer
+    * 密码: wgame_designer 
   * 请在workspace名前面添加自己名字前缀。请用全名，不要只使用首字母，方便别人搜索查询！
 * 每个分支需要有个负责人，来负责分支的合并。
   * 开发分支：建议程序员负责
