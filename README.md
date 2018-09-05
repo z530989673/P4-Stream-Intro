@@ -1,4 +1,5 @@
 # Perforce中streams的使用介绍
+如果是新人请先直接跳至[这里](## 一定一定一定要做正确的事情)
 ## 概述
 ### 为什么使用版本管理软件
 * 备份、合作、检索
@@ -71,7 +72,7 @@
   
   * [发布版本](#如何发布版本)。
   
-## 回去之后必须要做的事情：
+## 一定一定一定要做正确的事情：
 * 正确设置P4配置:
 ![text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/createConnection.png)
   * 输入用户名：wgame_dev(密码：wgame_dev)
