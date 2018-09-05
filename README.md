@@ -18,8 +18,8 @@
 
 ## 基本操作
 ```diff
-如下操作，请勿随进进行，以免伤及无辜！！
-请不要自行创建分支！！！！！
+-如下操作，请勿随进进行，以免伤及无辜！！
+-请不要自行创建分支！！！！！
 ```
 ### 创建分支
 ![Alt text](https://github.com/z530989673/P4-Stream-Intro/blob/master/Pic/createbranch.gif)
